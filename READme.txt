@@ -1,11 +1,7 @@
 PROJECT README
 
 Program written by Russel Santos
-Student no: 2019-69545
 ver. 0.98
-
-
-Project Implemented: CLI Chess engine
 
 Tested on Python 3.4
 
